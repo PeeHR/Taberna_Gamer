@@ -6,10 +6,14 @@ O sistema WEB irá gerar um cadastro e validação de login onde o usuario irá 
 
 # *Informações extras:*
 
-react  -  (Biblioteca front - end)
-java spring - ( Framework)
+React  -  (Biblioteca front - end)
+
+Java Spring - ( Framework)
+
 Yarn - (Gerenciador de pacotes JS)
-java - (Back - end)
+
+Java - (Back - end)
+
 Mongol  - (Banco de dados)
 
 
